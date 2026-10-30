@@ -286,10 +286,10 @@ Researchers and developers should:
 ## 12. Data Availability and Licensing
 
 **Project Repository:**  
-https://github.com/BdBBQ-Research/BdBBQ
+https://github.com/BDBBQ-Research/BDBBQ
 
 **GitHub Organization:**  
-https://github.com/BdBBQ-Research
+https://github.com/BDBBQ-Research
 
 **Data Format:** JSONL
 
@@ -322,10 +322,10 @@ The expanded benchmark is developed as a collaborative research project by resea
 **Research Area:** Natural Language Processing, Social Bias Evaluation, and Trustworthy AI
 
 **GitHub Organization:**  
-https://github.com/BdBBQ-Research
+https://github.com/BDBBQ-Research
 
 **Repository:**  
-https://github.com/BdBBQ-Research/BdBBQ
+https://github.com/BDBBQ-Research/BDBBQ
 
 ---
 
