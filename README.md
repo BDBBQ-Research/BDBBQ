@@ -10,7 +10,7 @@ The benchmark extends the BanglaBBQ research initiative by expanding its social 
 
 | Attribute | Description |
 |---|---|
-| Dataset | BDBBQ (BanglaBBQ) |
+| Dataset | BDBBQ |
 | Research Domain | Natural Language Processing, Responsible AI |
 | Task | Social Bias Evaluation in Question Answering |
 | Languages | Bengali and English |
