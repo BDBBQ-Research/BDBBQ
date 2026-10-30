@@ -3,7 +3,7 @@
 
 | Attribute | Description |
 |---|---|
-| Dataset Name | BDBBQ (BanglaBBQ) |
+| Dataset Name | BDBBQ |
 | Full Title | A Human-AI Collaborative Benchmark for Bengali Social Bias in LLMs |
 | Task | Social Bias Evaluation in Question Answering |
 | Languages | Bengali and English |
